@@ -1,0 +1,14 @@
+What is Marty?
+=================================
+Marty is a high-level language that is meant to be a small learning project for me. It's main principles are:
+
+- Clean and readable code (most of it will follow the C / C++ Style Guide)
+- Specific, but still readable syntax
+- Good module support
+- Keep the language small
+
+This release is version 0.0.0-beta.
+
+Install
+=================================
+Marty comes with shell scripts to install the system for you. Optionally, you can use GNU Make.
